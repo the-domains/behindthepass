@@ -2,6 +2,7 @@ name: behindthepass
 favicon: null
 layout_spectrum: 0.4159774505533278
 typography_spectrum: 0.2596033678855747
+title: Behind the Pass
 cta:
   domain: null
   bucket: null
